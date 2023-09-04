@@ -245,13 +245,13 @@ body{
   }
   
   .progress-line .html::after {
-    content: "80%";
+    content: "90%";
   }
   .progress-line .css::after {
-    content: "70%";
+    content: "85%";
   }
   .progress-line .javascript::after {
-    content: "60%";
+    content: "70%";
   }
   .progress-line .cprogramming::after {
     content: "80%";
