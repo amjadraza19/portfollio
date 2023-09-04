@@ -203,13 +203,13 @@ body{
   }
   
   .progress-line .html {
-    width: 80%;
+    width: 90%;
   }
   .progress-line .css {
-    width: 70%;
+    width: 85%;
   }
   .progress-line .javascript {
-    width: 60%;
+    width: 70%;
   }
   .progress-line .cprogramming {
     width: 80%;
